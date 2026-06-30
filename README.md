@@ -32,7 +32,7 @@
 
 ### 🚀 Projetos em destaque
 
-#### 🥊 [UFC Fight Predictor](https://github.com/henriquepicchioni/ufc-fight-predictor)
+#### 🥊 [UFC Fight Predictor](https://github.com/henriquepicchioni/ufc_machine-learning)
 Sistema de machine learning que prevê o resultado de lutas do UFC a partir das
 estatísticas dos lutadores. Cobre o fluxo completo — limpeza de dados, análise
 exploratória, construção de features, treino e avaliação do modelo, e uma interface web.
